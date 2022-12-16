@@ -1,19 +1,14 @@
-Hola a todos! 👋👩‍💻 Soy Gisela 
-💻 console.log ("Hola mundo")🌎 Un poquito sobre mi: Estudié Ingeniería Civil y me recibí en el año 2020. 
-Trabajo en mi profesión actualmente y me encuentro en búsqueda de mi primera oportunidad en el mundo IT.
-Mi energía, compromiso y dedicación me han permitido crecer de forma autodidacta, luego sentí que era momento de estudiar y profundizar mis conocimientos por lo que elegí a Henry como mi acompañante en este nuevo camino.
-Me encuentro muy feliz de haber comenzado a andar por este nuevo camino. Soy una persona muy curiosa, perfeccionista, 
-siempre me gusta ir aprendiendo algo nuevo, soy proactiva y pongo mi corazón y compromiso en toda mi vida y proyectos profesionales.
+Hola a todos! 👋Un poquito sobre mi: Me recibí de  Ingeniería Civil, Profesora en Disciplinas Industriales y Data Science en el bootcamp de Henry. Actualmente me encuentro perfeccionando mis habilidades mejorando mis proyectos que te invito a ver en mi repositorio de https://github.com/sgisela945
 
-🏻 Estudie My SQL aprendiendo a realizar el proceso de ETL y vinculación de tablas mediante claves, Python como lenguaje potente para crear cualquier tipo de programa y visualizar mediante sus librerias Matplotlib &
-Seaborn, Visualización en Power Bi, introducción a storytelling y manipulación de datos en Power Query. Actualmente me encuentro estudiando Machine Learning.
+💥Se utilizar My SQL para a realizar el proceso de ETL y vinculación de tablas mediante claves primarias y foranas, 
+💥 Utilizo Python como lenguaje potente para crear cualquier tipo de programa y visualizar mediante sus librerias Matplotlib & Seaborn,
+💥 Visualizo en Power Bi, manejo storytelling y manipulación de datos en Power Query. 
+💥 Se utilizar GCP para trabajar en Big Data pudiendo integrar fuentes de información desde CSV, JSON, Parquet, Scripts de Python que utilizan API's y Web Scraping, bases de datos atravesando los debidos permisos IAM e  incorporando Cloud Functions
 
-🌎 En constante aprendizaje del mundo digital.
-💻 Apasionada por el aprendizaje. 📖 Investigando el mundo de machine learning. ✔ Ingeniera Civil ✔ Ingeniera Civil
+🌎  Soy una persona muy curiosa, perfeccionista, siempre me gusta ir siempre aprendiendo algo nuevo, proactiva y pongo mi corazón y compromiso en mis proyectos.
+En constante aprendizaje del mundo digital. 💻 
+✔ Ingeniera Civil ✔Profesora en disciplinas industriales ✔Data Science
 
-Conocimientos
-MySQL Python Power Bi Anaconda Visual Studio Code GIT GitHub PuTTy WinSCP Terminal
-MySQL || Python || Power Bi || Git || GitHub 
-
+Si te gusta mi perfil contactame a mi correo personal: ingiselasanchez@gmail.com
 
  👩‍💻 Muchas gracias y Saludos!
