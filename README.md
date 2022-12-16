@@ -1,4 +1,4 @@
-Hola a todos! 👋Un poquito sobre mi: Me recibí de  Ingeniería Civil, Profesora en Disciplinas Industriales y Data Science en el bootcamp de Henry. Actualmente me encuentro perfeccionando mis habilidades mejorando mis proyectos que te invito a ver en mi repositorio de https://github.com/sgisela945
+Hola a todos! 👋Un poquito sobre mi: Me recibí de  Ingeniería Civil, Profesora en Disciplinas Industriales y Data Science en el bootcamp de Henry. Actualmente me encuentro perfeccionando mis habilidades mejorando mis proyectos que te invito a ver en mi repositorio
 
 💥Se utilizar My SQL para a realizar el proceso de ETL y vinculación de tablas mediante claves primarias y foranas, 
 💥 Utilizo Python como lenguaje potente para crear cualquier tipo de programa y visualizar mediante sus librerias Matplotlib & Seaborn,
